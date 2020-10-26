@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>¿Cómo comprar? on MOMANIC | Indumentaria femenina</title>
-    <link>http://momanic.com/about/</link>
+    <link>https://momanic.com/about/</link>
     <description>Recent content in ¿Cómo comprar? on MOMANIC | Indumentaria femenina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
-	<atom:link href="http://momanic.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://momanic.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
