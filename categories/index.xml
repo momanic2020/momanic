@@ -11,29 +11,11 @@
     
     
     <item>
-      <title>Bandoleras</title>
-      <link>https://momanic.com/categories/bandoleras/</link>
+      <title>Bikers</title>
+      <link>https://momanic.com/categories/bikers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://momanic.com/categories/bandoleras/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blazer</title>
-      <link>https://momanic.com/categories/blazer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://momanic.com/categories/blazer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Camperas</title>
-      <link>https://momanic.com/categories/camperas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://momanic.com/categories/camperas/</guid>
+      <guid>https://momanic.com/categories/bikers/</guid>
       <description></description>
     </item>
     
@@ -43,6 +25,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://momanic.com/categories/jeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musculosas</title>
+      <link>https://momanic.com/categories/musculosas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://momanic.com/categories/musculosas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paisanas</title>
+      <link>https://momanic.com/categories/paisanas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://momanic.com/categories/paisanas/</guid>
       <description></description>
     </item>
     
@@ -70,6 +70,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://momanic.com/categories/shorts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vestidos</title>
+      <link>https://momanic.com/categories/vestidos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://momanic.com/categories/vestidos/</guid>
       <description></description>
     </item>
     
